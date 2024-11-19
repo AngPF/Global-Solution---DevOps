@@ -1,1 +1,1 @@
-# Global-Solution---DevOps
+# GlobalSolution2024.2
